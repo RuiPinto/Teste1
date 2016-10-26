@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ola rui tolo
 ola ivo bonito
+=======
+ola rui 12314
+>>>>>>> refs/remotes/origin/master
